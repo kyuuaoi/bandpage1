@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: auto 0;
+}
+
+header {
+    width: 100%;
+}
+
+navbar {
+    text-decoration: none;
+    background-color: black;
+    display: flex;
+}
+
+navbar > h2 {
+    padding-left: 40px;
+    color: white;
+}
+
+.home {
+    background-image: url('img/hbg.jpg');
+}
